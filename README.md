@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Bienvenido a mi laboratorio digital 🚀
 
-<!--
-**claraguamanp/claraguamanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Clara Guamán**, estudiante de **Ingeniería de Software** apasionado por resolver problemas reales con líneas de código. Actualmente estoy explorando el vasto mundo del desarrollo backend y los sistemas de bajo nivel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 🎓 Estudiante de Ingeniería de Software
+- 🧰 Apasionado por la programación en **Java** y **C**
+- 🔍 Siempre aprendiendo algo nuevo: estructuras de datos, algoritmos y diseño de software
+- 💡 Me encantan los retos y los proyectos que me hacen pensar
+
+---
+
+## 💼 Tecnologías y herramientas
+
+```java
+Lenguajes: Java | C | C++ (aprendiendo)  
+Herramientas: Git | VS Code | GCC | IntelliJ IDEA  
